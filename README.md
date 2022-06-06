@@ -8,7 +8,6 @@ Tools/Programs/Languages used:
 
 - Google Colab
 - Python / PySpark
-- pgAdmin
 - AWS (RDS)
 - ETL
 
