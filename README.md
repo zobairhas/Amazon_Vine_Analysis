@@ -10,6 +10,9 @@ Tools/Programs/Languages used:
 - Python / PySpark
 - AWS RDS
 - ETL operations
+- SQL
+- pgAdmin
+- Excel
 
 ##
 - I used PySpark to import data from an S3 bucket and read it as a dataframe.
