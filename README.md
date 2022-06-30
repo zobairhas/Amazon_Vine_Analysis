@@ -20,6 +20,7 @@ Tools/Programs/Languages used:
 ![image](https://user-images.githubusercontent.com/44425379/176713636-67421df2-604b-4819-b02a-8f5a9940f22a.png)
 
 - Then, I cleaned up the data and filtered the data by the amount of reviews and stars given by Amazon Vine Members and Non-Amazon Vine Members.
+- This led me to create 3 different tables. 
 
 ![image](https://user-images.githubusercontent.com/44425379/176714525-d6b8e338-2f66-4fc4-8f36-3f46454230bf.png)
 
