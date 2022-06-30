@@ -8,7 +8,7 @@ Tools/Programs/Languages used:
 
 - Google Colab
 - Python / PySpark
-- AWS (RDS)
+- AWS RDS
 - ETL operations
 
 ##
@@ -16,15 +16,17 @@ Tools/Programs/Languages used:
 
 ![image](https://user-images.githubusercontent.com/44425379/176713636-67421df2-604b-4819-b02a-8f5a9940f22a.png)
 
-- Then I cleaned up the data and filtered the data by the amount of reviews and stars given by Amazon Vine Members and Non-Amazon Vine Members.
+- Then, I cleaned up the data and filtered the data by the amount of reviews and stars given by Amazon Vine Members and Non-Amazon Vine Members.
 
 ![image](https://user-images.githubusercontent.com/44425379/176714525-d6b8e338-2f66-4fc4-8f36-3f46454230bf.png)
 
 ![image](https://user-images.githubusercontent.com/44425379/176714562-dded9241-0a05-4dd0-9aee-27421aba6592.png)
 
-- After that I connected to an AWS RDS instance and added each "clean" DataFrame to its corresponding table.
+- Afterwards, I connected to an AWS RDS (cloud database) instance and added each "clean" DataFrame to its corresponding table.
 
 ![image](https://user-images.githubusercontent.com/44425379/176715338-a6af0bd9-0a7d-4552-823d-35f86ad41ae9.png)
+
+- Once I confirmed connection to the cloud database, I then linked AWS to my database in pgAdmin. I used basic SQL queries to make sure that data loaded correctly.
 
 
 ### Summary of Results
