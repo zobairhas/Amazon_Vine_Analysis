@@ -26,7 +26,7 @@ Tools/Programs/Languages used:
 
 ![image](https://user-images.githubusercontent.com/44425379/176715338-a6af0bd9-0a7d-4552-823d-35f86ad41ae9.png)
 
-- Once I confirmed connection to the cloud database, I then linked AWS to my database in pgAdmin. I used basic SQL queries to make sure that data loaded correctly.
+- Once I confirmed connection to the cloud database, I then linked AWS to my database in pgAdmin. I used basic SQL queries to make sure the data loaded correctly.
 
 
 ### Summary of Results
