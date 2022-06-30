@@ -9,9 +9,25 @@ Tools/Programs/Languages used:
 - Google Colab
 - Python / PySpark
 - AWS (RDS)
-- ETL
+- ETL operations
 
-## Summary of Results
+##
+- I used PySpark to import data from an S3 bucket and read it as a dataframe.
+
+![image](https://user-images.githubusercontent.com/44425379/176713636-67421df2-604b-4819-b02a-8f5a9940f22a.png)
+
+- Then I cleaned up the data and filtered the data by the amount of reviews and stars given by Amazon Vine Members and Non-Amazon Vine Members.
+
+![image](https://user-images.githubusercontent.com/44425379/176714525-d6b8e338-2f66-4fc4-8f36-3f46454230bf.png)
+
+![image](https://user-images.githubusercontent.com/44425379/176714562-dded9241-0a05-4dd0-9aee-27421aba6592.png)
+
+- After that I connected to an AWS RDS instance and added each "clean" DataFrame to its corresponding table.
+
+![image](https://user-images.githubusercontent.com/44425379/176715338-a6af0bd9-0a7d-4552-823d-35f86ad41ae9.png)
+
+
+### Summary of Results
 - How many Vine reviews and non-Vine reviews were there?
   - Total Vine Reviews = 613
   - Total non-Vine Reviews = 64,968
