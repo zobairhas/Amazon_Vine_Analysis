@@ -29,7 +29,7 @@ Tools/Programs/Languages used:
 - Once I confirmed connection to the cloud database, I then linked AWS to my database in pgAdmin. I used basic SQL queries to make sure the data loaded correctly.
 
 
-### Summary of Results
+## Summary of Results
 - How many Vine reviews and non-Vine reviews were there?
   - Total Vine Reviews = 613
   - Total non-Vine Reviews = 64,968
