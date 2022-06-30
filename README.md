@@ -43,5 +43,6 @@ Tools/Programs/Languages used:
   - Percentage Vine 5 star reviews = 0.7%
   - Percentage non-Vine 5 star reviews = 99.3%
 
+### Conclusion
 - I would conclude that there is no positivity bias for reviews in the Vine program as they are such a small percentage of the total reviews.
 - Only about a third of the total vine reviews had 5 star reviews. 
